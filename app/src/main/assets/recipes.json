@@ -1,0 +1,92 @@
+{
+  "recipes": [
+    {
+      "title": "Grilled Deviled Chickens Under a Brick",
+      "image": "http://www.edamam.com/web-img/5f5/5f51c98d87ad52d80ba34e03e5b4f669.jpg",
+      "url": "http://www.delish.com/cooking/recipe-ideas/recipes/a11249/grilled-deviled-chickens-under-brick-mls0510",
+      "description": "Grilling these chickens under a heavy weight will help them cook quickly and evenly, leaving them crisp and juicy.",
+      "servings": 4,
+      "dietLabel": "Low-Carb",
+      "ingredientLines": [
+        "4 baby chickens (poussins) 40 cornish hens (about 1 1/4 pounds each)",
+        "40 4 chicken breast halves",
+        "3 lemons, plus wedges for garnish",
+        "4 cloves garlic, peeled and smashed",
+        "1/4 oil",
+        "1 tablespoon finely chopped fresh thyme",
+        "1 tablespoon finely chopped fresh rosemary",
+        "1/2 cup olive oil",
+        "Salt, to taste"
+      ]
+    },
+    {
+      "title": "Stir-Fried Rice with Chinese Sausage",
+      "image": "http://www.edamam.com/web-img/341/3417c234ad6b8720d3a45345e86bff4d.jpg",
+      "url": "http://www.seriouseats.com/recipes/2011/06/stir-fried-rice-with-chinese-sausage-recipe.html",
+      "description": "Коли шарми китайської кухні з хорошим у будь-якому стилі-фрай, мій приємним способом використовувати їх є в блюдо як noodle dish, з скромним цинамоновим впроу рослинний від пушини",
+      "servings": 4,
+      "dietLabel": "Balanced",
+      "ingredientLines": [
+        "2 або 3 лінки 3 chines sausage, вирізати в 1/4 inch slices",
+        "4 cloves garlic, minced",
+        "4 cups cold cooked rice",
+        "2 tablespoons light soy sauce",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon sugar",
+        "1/4 teaspoon white pepper",
+        "To garnish: finely chopped green onion or cilantro"
+      ]
+    },
+    {
+      "title": "Five-Spice Chicken Wings Recipe",
+      "image": "http://www.edamam.com/web-img/c7d/c7d9644d5e696ce0a99af1563d3f53c3.jpg",
+      "url": "http://www.epicurious.com/recipes/food/views/Five-Spice-Chicken-Wings-109520",
+      "description": "Високий міст від китайського п'яти-шпика фарби не може бути, якщо ви були типовим міксіннам в термах іх incendiary wings, і кріктик шкура походить від blast of hot oven rather than splattering of hot oil.",
+      "servings": 4,
+      "dietLabel": "Low-Carb",
+      "ingredientLines": [
+        "40 chicken wing pieces, 40 20 whole chicken wings",
+        "2 tablespoons chinese five-spice powder",
+        "1 tablespoon cayenne pepper",
+        "Kosher salt and freshly ground black pepper",
+        "1/3 to 1/2 cup chopped fresh cilantro leaves",
+        "1/3 to 1/4 cup regular sour cream",
+        "1/4 cup mayonnaise",
+        "1/4 cup plain yogurt",
+        "Juice 1/2 lemon (або why not try lime?)"
+      ]
+    },
+    {
+      "title": "Korean Rice Cakes (Duk Boki)",
+      "image": "https://www.edamam.com/web-img/ff3/ff3b07c8f48283265e8153ee15e89cf1.jpg",
+      "url": "http://www.seriouseats.com/recipes/2010/11/seriously-asian-korean-rice-cakes-duk-boki.html",
+      "description": "Rice cake, known as duk in Korean, is chewy and soft. Combined with strong flavors and variations, no wonder Koreans eat them all the time.",
+      "servings": 4,
+      "dietLabel": "Low-Fat",
+      "ingredientLines": [
+        "6 to 8 fresh long rice cake sticks",
+        "1/4 cup gochugaru (Korean chili pepper flakes)",
+        "3 tablespoons light soy sauce",
+        "1 teaspoon sugar",
+        "1 teaspoon rice vinegar",
+        "Roasted sesame seeds to garnish"
+      ]
+    },
+    {
+      "title": "Dump Cake",
+      "image": "https://www.edamam.com/web-img/414/414dfbb9ade64a56fb58ad98e87ad28d.jpg",
+      "url": "http://www.epicurious.com/recipes/food/views/DUMP-CAKE-50835919",
+      "description": "Don't let the name scare you. It's a really simple dessert with layers made at the base of a cake mix fluffed with some cherries and pineapple.",
+      "servings": 12,
+      "dietLabel": "Vegetarian",
+      "ingredientLines": [
+        "1 box (21 oz.) cherry pie filling",
+        "1 can (20 oz.) crushed pineapple",
+        "1 box (18 oz.) yellow or white cake mix",
+        "1 stick margarine",
+        "1/2 stick butter",
+        "Whipped cream (optional)"
+      ]
+    }
+  ]
+}
