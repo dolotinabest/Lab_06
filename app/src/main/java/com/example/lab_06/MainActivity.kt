@@ -1,6 +1,8 @@
 package com.example.lab_06
 
 import android.os.Bundle
+import android.webkit.WebView
+import android.webkit.WebViewClient
 import android.widget.ArrayAdapter
 import android.widget.ListView
 import androidx.activity.enableEdgeToEdge
@@ -35,5 +37,14 @@ class MainActivity : AppCompatActivity() {
         val listItems = recipeList.map { it.title }.toTypedArray()
         val adapter = RecipeAdapter(this, recipeList)
         listView.adapter = adapter
+
+        val context = this
+
+        listView.setOnItemClickListener { _, _, position, _ ->
+            val selectedRecipe = recipeList[position]
+            val detailIntent = RecipeDetailActivity.newIntent(context, selectedRecipe)
+            startActivity(detailIntent)
+        }
+
     }
 }
